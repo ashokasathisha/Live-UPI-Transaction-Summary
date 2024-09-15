@@ -5,7 +5,7 @@ This repository provides a comprehensive UPI Transaction Summary Dashboard built
 
 ## 🚀 About Me
 A passionate aspiring developer from India
-[![My Github](https://avatars.githubusercontent.com/u/120413615?v=4)](https://github.com/ashokasathisha/)
+
 
 
 ## 🔗 Links
@@ -18,11 +18,11 @@ A passionate aspiring developer from India
 
 **platform:** [![Power BI](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/power-platform/products/power-bi/)
 
-**Server:** [![NCPI](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9UlEQVR4AWNAB////2eHsZ/ka3WAGRqi/AzB2nYMpIAwLQEtoAH/wZxIvQqGRucfxOlE2N4GMgCIZwM1XwXi/wxuKjmkGPAaasBb1kannyADgPgmKQb8h+HaclOQZgjWENUjqLncSgzsfyQM0gzDHwkacCtL4xC6AXNLjRCGROtHE3L+H5AmPK64hVOziSQXPzbNRwv1kA1YiNOALmfJQnTNq0oMkDVnEXL+JWTNy0sMUTSTFH19ZSbImn0IanZX5pWGae4vM36ApNmD2MQzCWpAD1DTM6hmG1JTXzGIDdasLKRNUgaa6yNbBqKBGgWBSdaIGD0A213NGQgHQY4AAAAASUVORK5CYII=)](https://www.npci.org.in/)
+**Server:** [![NCPI](https://www.npci.org.in/images/npci/logo.png)](https://www.npci.org.in/)
 
 
 
 ## Screenshots
 
-![App Screenshot](NCPI - UPI Power Bi dashboard](https://github.com/user-attachments/assets/eebac03c-507d-4aaf-b9bc-470fa2f732cd)
+[![Screenshot](https://github.com/ashokasathisha/Live-UPI-Transaction-Summary/blob/main/NCPI%20-%20UPI%20Power%20Bi%20dashboard.PNG?raw=true)
 
